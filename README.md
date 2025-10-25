@@ -1,4 +1,4 @@
-Project: SFO Air Traffic Landings Statistics – Alteryx Data Profiling & Transformation (DAMG7370 Fall 2025)
+Project: SFO Air Traffic Landings Statistics – Alteryx Data Profiling & Transformation 
 
 This project focuses on data preparation, profiling, and transformation using Alteryx Designer and Azure SQL Database.
 Below are the key components of the workflow and tasks completed:
